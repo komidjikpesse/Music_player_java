@@ -10,6 +10,7 @@ Le programme MusicPlayer est conçu pour permettre à l'utilisateur de lire et d
 
 ### Lecture de musique
 - Lecture de fichiers audio WAV à partir d'une liste de lecture prédéfinie.
+  
 - Contrôles de lecture tels que play, pause, reprise, arrêt, avance rapide et retour en arrière.
 
 ### Gestion de la playlist
